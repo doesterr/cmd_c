@@ -1,5 +1,9 @@
 # cmd_c (OSX only)
 
+[![Gem Version](https://badge.fury.io/rb/cmd_c.png)][gem]
+
+[gem]: https://rubygems.org/gems/cmd_c
+
 Copy to your clipboard, just like <kbd>cmd</kbd>+<kbd>c</kbd>
 
 ## Installation
