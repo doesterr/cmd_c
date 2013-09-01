@@ -6,6 +6,9 @@
 
 Copy to your clipboard, just like <kbd>cmd</kbd>+<kbd>c</kbd>
 
+This gem is mostly a playground for me.
+If you're looking for a more advanced gem, have a look at [clipboard](https://github.com/janlelis/clipboard "clipboard").
+
 ## Installation
     gem install cmd_c
     
